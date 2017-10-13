@@ -1,6 +1,9 @@
 # ROV-S
 Documents concerning the ROV-S including electrical diagrams, stl files, and an assembly manual.
 
+### ROV-S ROS code
+ROS code for ROV-S project can be found by clicking this link -> [ROV-S Code](https://github.com/jmwest0774/rovs)
+
 
 ### To begin manual control of the ROV-S
 * Turn on the ROV-S Intel NUC and Arduino motorshields.
